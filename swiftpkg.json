@@ -1,5 +1,5 @@
 {
-    "name": "JFTestAdder",
+    "name": "JFTestAdditive",
     "targets": {
         "app": {
             "type": "module"
